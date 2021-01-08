@@ -1,2 +1,2 @@
-# AnFi
+# AnnFi
 Deep Learning Chatbot.
